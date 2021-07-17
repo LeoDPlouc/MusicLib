@@ -1,0 +1,26 @@
+2021-07-03 23:39:42.637 +02:00 [INF] Loaded 3 extensions
+2021-07-03 23:39:43.947 +02:00 [INF] MSBuild registered from C:\Program Files\dotnet\sdk\5.0.103\
+2021-07-03 23:40:20.211 +02:00 [INF] Initializing upgrade step Select an entrypoint
+2021-07-03 23:40:52.848 +02:00 [INF] Applying upgrade step Select an entrypoint
+2021-07-03 23:41:02.460 +02:00 [INF] Upgrade step Select an entrypoint applied successfully
+2021-07-03 23:41:05.599 +02:00 [INF] Initializing upgrade step Select project to upgrade
+2021-07-03 23:41:13.680 +02:00 [INF] Applying upgrade step Select project to upgrade
+2021-07-03 23:41:20.550 +02:00 [INF] Upgrade step Select project to upgrade applied successfully
+2021-07-03 23:41:23.446 +02:00 [INF] Initializing upgrade step Back up project
+2021-07-03 23:41:34.640 +02:00 [INF] Applying upgrade step Back up project
+2021-07-03 23:41:40.111 +02:00 [INF] Backing up C:\Users\Leo\Desktop\Workspace\MusicApp\MusicApp to C:\Users\Leo\Desktop\Workspace\MusicApp\MusicApp.backup\MusicApp
+2021-07-03 23:41:40.152 +02:00 [WRN] Could not copy file C:\Users\Leo\Desktop\Workspace\MusicApp\MusicApp\log.txt due to 'The process cannot access the file 'C:\Users\Leo\Desktop\Workspace\MusicApp\MusicApp\log.txt' because it is being used by another process.'
+2021-07-03 23:41:40.997 +02:00 [WRN] Could not copy file C:\Users\Leo\Desktop\Workspace\MusicApp\MusicApp\.vs\MusicApp\v16\TestStore\0\000.testlog due to 'The process cannot access the file 'C:\Users\Leo\Desktop\Workspace\MusicApp\MusicApp\.vs\MusicApp\v16\TestStore\0\000.testlog' because it is being used by another process.'
+2021-07-03 23:41:41.000 +02:00 [WRN] Could not copy file C:\Users\Leo\Desktop\Workspace\MusicApp\MusicApp\.vs\MusicApp\v16\TestStore\0\testlog.manifest due to 'The process cannot access the file 'C:\Users\Leo\Desktop\Workspace\MusicApp\MusicApp\.vs\MusicApp\v16\TestStore\0\testlog.manifest' because it is being used by another process.'
+2021-07-03 23:42:26.843 +02:00 [INF] Loaded 3 extensions
+2021-07-03 23:42:27.493 +02:00 [INF] MSBuild registered from C:\Program Files\dotnet\sdk\5.0.103\
+2021-07-03 23:42:30.444 +02:00 [INF] Initializing upgrade step Select an entrypoint
+2021-07-03 23:42:32.185 +02:00 [INF] Applying upgrade step Select an entrypoint
+2021-07-03 23:42:35.450 +02:00 [INF] Upgrade step Select an entrypoint applied successfully
+2021-07-03 23:42:38.607 +02:00 [INF] Initializing upgrade step Select project to upgrade
+2021-07-03 23:42:40.206 +02:00 [INF] Applying upgrade step Select project to upgrade
+2021-07-03 23:42:41.959 +02:00 [INF] Upgrade step Select project to upgrade applied successfully
+2021-07-03 23:42:42.662 +02:00 [INF] Initializing upgrade step Back up project
+2021-07-03 23:42:53.005 +02:00 [INF] Applying upgrade step Back up project
+2021-07-03 23:42:54.776 +02:00 [INF] Backing up C:\Users\Leo\Desktop\Workspace\MusicApp\MusicApp to C:\Users\Leo\Desktop\Workspace\MusicApp\MusicApp.backup\MusicApp.0
+2021-07-03 23:42:54.785 +02:00 [WRN] Could not copy file C:\Users\Leo\Desktop\Workspace\MusicApp\MusicApp\log.txt due to 'The process cannot access the file 'C:\Users\Leo\Desktop\Workspace\MusicApp\MusicApp\log.txt' because it is being used by another process.'
