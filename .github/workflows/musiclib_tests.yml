@@ -1,4 +1,4 @@
-name: MusicLib Tests
+name: QuaverLib Tests
 
 on:
   push:
