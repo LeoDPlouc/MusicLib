@@ -21,8 +21,8 @@ jobs:
       with:
         dotnet-version: ${{ matrix.dotnet-version }}
     - name: Restore dependencies 
-      run: dotnet restore MusicLibTest/MusicLibTest.csproj
+      run: dotnet restore QuaverLibTest/QuaverLibTest.csproj
     - name: Build
-      run: dotnet build --no-restore MusicLibTest/MusicLibTest.csproj
+      run: dotnet build --no-restore QuaverLibTest/QuaverLibTest.csproj
     - name: Test
-      run: dotnet test --no-build --verbosity normal MusicLibTest/MusicLibTest.csproj
+      run: dotnet test --no-build --verbosity normal QuaverLibTest/QuaverLibTest.csproj
